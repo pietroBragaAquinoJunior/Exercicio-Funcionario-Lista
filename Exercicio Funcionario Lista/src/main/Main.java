@@ -51,6 +51,8 @@ public class Main {
 		for(Funcionario x : lista) {
 			System.out.println(x);
 		}
+		
+		sc.close();
 
 	}
 
